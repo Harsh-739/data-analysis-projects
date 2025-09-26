@@ -9,9 +9,13 @@ pandas, numpy – Data manipulation
 matplotlib, seaborn – Data visualization
 
 Analysis
+
 Data Cleaning: Converted ratings to float
+
 EDA: Counted restaurants by category, votes, online ordering
+
 Ratings & Cost: Distribution analysis
+
 Relationship: Heatmap of restaurant type vs online ordering
 
 Visualizations
