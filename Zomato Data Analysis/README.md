@@ -1,7 +1,6 @@
 Zomato Data Analysis:Analyzed a dataset of 148 restaurants to explore trends in categories, online ordering, ratings, and pricing.
 
-Dataset
-148 rows, 7 columns
+Dataset:148 rows, 7 columns
 
 Key columns: name, online_order, votes, rate, approx_cost(for two), listed_in(type)
 
